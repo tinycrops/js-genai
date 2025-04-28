@@ -8,3 +8,6 @@ node_modules
 
 sdk-samples/build/**/*
 sdk-samples/web/dist/**/*
+
+.env.local
+.env
